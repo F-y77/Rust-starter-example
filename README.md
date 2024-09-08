@@ -1,6 +1,8 @@
 # Rust-starter-example
 chat bot and guess number
 
+有一个非常简单的聊天触发对应答案的命令行和猜数字大小的小游戏。
+
 如何打开源文件？
 
 1.安装 RUST
